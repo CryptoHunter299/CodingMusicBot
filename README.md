@@ -31,14 +31,25 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/PrimeStringBot)
 
-# Deployment on Heroku or VPS
+# Deployment on Heroku, Okteto or VPS
 
 <details>
-<summary><b> 🚀 Deployments Method</b></summary>
+<summary><b> 🚀 Deploy Via Heroku</b></summary>
+<br>
+
+<h4>Click the button below to deploy Coding Music Bot on Heroku!</h4>    
+<a href="https://heroku.com/deploy?template=https://github.com/CryptoHunter299/CodingMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+
+<h4>Click the button below to deploy Coding Music Bot on bot Telegram!</h4>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
+</details>
+
+<details>
+<summary><b> 🌳 Deploy Via Okteto</b></summary>
 <br>
 
 <h4>Click the button below to deploy Prime on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/Toni880/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/CryptoHunter299/CodingMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Prime on bot Telegram!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
