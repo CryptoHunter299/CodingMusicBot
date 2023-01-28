@@ -51,6 +51,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <h4>Click the button below to deploy Coding Music Bot on Okteto!</h4>    
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/CryptoHunter299/CodingMusicBot"><img src="https://camo.githubusercontent.com/2c41d34122e8e6574437cbe0c0c8382bc89a40c03d2dc453741bdbcbbaa9182e/68747470733a2f2f6f6b7465746f2e636f6d2f646576656c6f702d6f6b7465746f2e737667" width="200""/></a>
 
+</details>
 <details>
 <summary><b>🔗 Deploy on VPS</b></summary>
 <br>
