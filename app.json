@@ -1,13 +1,13 @@
 {
-    "name": "Prime Music",
+    "name": "Coding Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GeSeQZqCmvA5bAgK1GqmThPe5oJWZIK0eg&usqp=CAU",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Prime",
-    "PrimeMusic",
+    "Coding",
+    "CodingMusic",
     "telegram-bot",
     "pyrogram"
     ],
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Toni880/PrimeMusic",
+        "value": "https://github.com/CryptoHunter299/CodingMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
