@@ -77,7 +77,7 @@ root@CodingMusicBot~ $ bash start
 
 This project is licensed under the **GNU General Public License v3**. All designs were created by [@Toni880](https://github.com/Toni880) .
 
-See [LICENSE](../LICENSE) for more information.
+See [LICENSE](../main/LICENSE) for more information.
 
 Special thanks to these amazing projects/people which/who help power Prime Music Bot:
 
