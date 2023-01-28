@@ -1,8 +1,6 @@
+# Coding Music Bot <img src="https://img.shields.io/github/v/release/CryptoHunter299/CodingMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-
-# Prime Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
-
-[Prime Music Bot](https://github.com/Toni880/PrimeMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Coding Music Bot](https://github.com/CryptoHunter299/CodingMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
