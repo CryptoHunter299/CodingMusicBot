@@ -12,11 +12,11 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the Yukki Music Bot:
+Here's a brief high-level overview of the Coding Music Bot:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
-* For database, Yukki uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
+* For database, Coding Music Bot uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 * Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
 * The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
@@ -34,7 +34,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 # Deployment on Heroku or VPS
 
 <details>
-<summary><b> 🚀 Heroku Deployment</b></summary>
+<summary><b> 🚀 Deployments Method</b></summary>
 <br>
 
 <h4>Click the button below to deploy Prime on Heroku!</h4>    
@@ -50,17 +50,17 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
     
 ### Tutorial Deploy on VPS
 ```console
-root@PrimeMusic~ $ sudo su
-root@PrimeMusic~ $ apt-get update && apt-get upgrade -y
-root@PrimeMusic~ $ screen -S PrimeMusic
-root@PrimeMusic~ $ git clone https://github.com/Toni880/PrimeMusic
-root@PrimeMusic~ $ cd PrimeMusic
-root@PrimeMusic~ $ bash setup
+root@CodingMusicBot~ $ sudo su
+root@CodingMusicBot~ $ apt-get update && apt-get upgrade -y
+root@CodingMusicBot~ $ screen -S CodingMusicBot
+root@CodingMusicBot~ $ git clone https://github.com/CryptoHunter299/CodingMusicBot
+root@CodingMusicBot~ $ cd CodingMusicBot
+root@CodingMusicBot~ $ bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
 ```console
-root@PrimeMusic~ $ bash start
+root@CodingMusicBot~ $ bash start
 ```
 
 </details>
