@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
+
 
 # Prime Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
