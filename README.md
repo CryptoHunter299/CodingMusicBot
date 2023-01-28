@@ -34,7 +34,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 # Deployment on Heroku, Okteto or VPS
 
 <details>
-<summary><b> 🚀 Deploy Via Heroku</b></summary>
+<summary><b> 🚀 Deploy on Heroku</b></summary>
 <br>
 
 <h4>Click the button below to deploy Coding Music Bot on Heroku!</h4>    
@@ -45,7 +45,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 </details>
 
 <details>
-<summary><b> 🌳 Deploy Via Okteto</b></summary>
+<summary><b> 🌳 Deploy on Okteto</b></summary>
 <br>
 
 <h4>Click the button below to deploy Coding Music Bot on Okteto!</h4>    
